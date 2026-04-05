@@ -13,3 +13,4 @@
 | 9 | Maximum Amount of Money Robot Can ... | medium | JavaScript | DP | [Link](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | 02-04-26 |
 | 10 | Maximum Walls Destroyed by Robots | hard | JavaScript | DP | [Link](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) | 03-04-26 |
 | 11 | Decode the Slanted Ciphertext | medium | JavaScript | String | [Link](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | 04-04-26 |
+| 12 | Robot Return to Origin | easy | JavaScript | String | [Link](https://leetcode.com/problems/robot-return-to-origin/) | 05-04-26 |

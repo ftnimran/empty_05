@@ -15,3 +15,4 @@
 | 11 | Decode the Slanted Ciphertext | medium | JavaScript | String | [Link](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | 04-04-26 |
 | 12 | Robot Return to Origin | easy | JavaScript | String | [Link](https://leetcode.com/problems/robot-return-to-origin/) | 05-04-26 |
 | 13 | Walking Robot Simulation | medium | JavaScript | Hashing | [Link](https://leetcode.com/problems/walking-robot-simulation/) | 06-04-26 |
+| 14 | Walking Robot Simulation II | medium | JavaScript | Design | [Link](https://leetcode.com/problems/walking-robot-simulation-ii/) | 07-04-26 |

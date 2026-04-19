@@ -27,3 +27,4 @@
 | 23 | Closest Equal Element Queries | medium | JavaScript | Binary Search | [Link](https://leetcode.com/problems/closest-equal-element-queries/) | 16-04-26 |
 | 24 | Minimum Absolute Distance Between ... | medium | JavaScript | Hashing | [Link](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | 17-04-26 |
 | 25 | Mirror Distance of an Integer | easy | JavaScript | Math | [Link](https://leetcode.com/problems/mirror-distance-of-an-integer/) | 18-04-26 |
+| 26 | Maximum Distance Between a Pair of... | medium | JavaScript | Two Pointer | [Link](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | 19-04-26 |

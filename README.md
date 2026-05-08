@@ -46,3 +46,4 @@
 | 42 | Rotate List | medium | JavaScript | Linked List | [Link](https://leetcode.com/problems/rotate-list/) | 05-05-26 |
 | 43 | Rotating the Box | medium | JavaScript | Two Pointer | [Link](https://leetcode.com/problems/rotating-the-box/) | 06-05-26 |
 | 44 | Jump Game IX | medium | JavaScript | DP | [Link](https://leetcode.com/problems/jump-game-ix/) | 07-05-26 |
+| 45 | Minimum Jumps to Reach End via Pri... | medium | JavaScript | Hashing | [Link](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | 08-05-26 |

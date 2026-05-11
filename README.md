@@ -49,3 +49,4 @@
 | 45 | Minimum Jumps to Reach End via Pri... | medium | JavaScript | Hashing | [Link](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | 08-05-26 |
 | 46 | Cyclically Rotating a Grid | medium | JavaScript | Matrix | [Link](https://leetcode.com/problems/cyclically-rotating-a-grid/) | 09-05-26 |
 | 47 | Maximum Number of Jumps to Reach t... | medium | JavaScript | DP | [Link](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | 10-05-26 |
+| 48 | Separate the Digits in an Array | easy | JavaScript | Array | [Link](https://leetcode.com/problems/separate-the-digits-in-an-array/) | 11-05-26 |

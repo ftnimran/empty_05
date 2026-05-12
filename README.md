@@ -50,3 +50,4 @@
 | 46 | Cyclically Rotating a Grid | medium | JavaScript | Matrix | [Link](https://leetcode.com/problems/cyclically-rotating-a-grid/) | 09-05-26 |
 | 47 | Maximum Number of Jumps to Reach t... | medium | JavaScript | DP | [Link](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | 10-05-26 |
 | 48 | Separate the Digits in an Array | easy | JavaScript | Array | [Link](https://leetcode.com/problems/separate-the-digits-in-an-array/) | 11-05-26 |
+| 49 | Minimum Initial Energy to Finish T... | hard | JavaScript | Greedy | [Link](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | 12-05-26 |

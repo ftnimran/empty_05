@@ -53,3 +53,4 @@
 | 49 | Minimum Initial Energy to Finish T... | hard | JavaScript | Greedy | [Link](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | 12-05-26 |
 | 50 | Minimum Moves to Make Array Comple... | medium | JavaScript | Prefix Sum | [Link](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | 13-05-26 |
 | 51 | Check if Array is Good | easy | JavaScript | Hashing | [Link](https://leetcode.com/problems/check-if-array-is-good/) | 14-05-26 |
+| 52 | Find Minimum in Rotated Sorted Array | medium | JavaScript | Binary Search | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 15-05-26 |

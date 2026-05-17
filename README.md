@@ -55,3 +55,4 @@
 | 51 | Check if Array is Good | easy | JavaScript | Hashing | [Link](https://leetcode.com/problems/check-if-array-is-good/) | 14-05-26 |
 | 52 | Find Minimum in Rotated Sorted Array | medium | JavaScript | Binary Search | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 15-05-26 |
 | 53 | Find Minimum in Rotated Sorted Arr... | hard | JavaScript | Binary Search | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 16-05-26 |
+| 54 | Jump Game III | medium | JavaScript | Array | [Link](https://leetcode.com/problems/jump-game-iii/) | 17-05-26 |

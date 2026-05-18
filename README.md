@@ -56,3 +56,4 @@
 | 52 | Find Minimum in Rotated Sorted Array | medium | JavaScript | Binary Search | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 15-05-26 |
 | 53 | Find Minimum in Rotated Sorted Arr... | hard | JavaScript | Binary Search | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 16-05-26 |
 | 54 | Jump Game III | medium | JavaScript | Array | [Link](https://leetcode.com/problems/jump-game-iii/) | 17-05-26 |
+| 55 | Jump Game IV | hard | JavaScript | Hashing | [Link](https://leetcode.com/problems/jump-game-iv/) | 18-05-26 |

@@ -60,3 +60,4 @@
 | 56 | Minimum Common Value | easy | JavaScript | Two Pointer | [Link](https://leetcode.com/problems/minimum-common-value/) | 19-05-26 |
 | 57 | Find the Prefix Common Array of Tw... | medium | JavaScript | Hashing | [Link](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | 20-05-26 |
 | 58 | Find the Length of the Longest Com... | medium | JavaScript | Trie | [Link](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | 21-05-26 |
+| 59 | Search in Rotated Sorted Array | medium | JavaScript | Binary Search | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 22-05-26 |

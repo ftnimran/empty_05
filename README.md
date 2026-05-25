@@ -63,3 +63,4 @@
 | 59 | Search in Rotated Sorted Array | medium | JavaScript | Binary Search | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 22-05-26 |
 | 60 | Check if Array Is Sorted and Rotated | easy | JavaScript | Array | [Link](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | 23-05-26 |
 | 61 | Jump Game V | hard | JavaScript | DP | [Link](https://leetcode.com/problems/jump-game-v/) | 24-05-26 |
+| 62 | Jump Game VII | medium | JavaScript | DP | [Link](https://leetcode.com/problems/jump-game-vii/) | 26-05-26 |

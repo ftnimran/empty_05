@@ -64,3 +64,4 @@
 | 60 | Check if Array Is Sorted and Rotated | easy | JavaScript | Array | [Link](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | 23-05-26 |
 | 61 | Jump Game V | hard | JavaScript | DP | [Link](https://leetcode.com/problems/jump-game-v/) | 24-05-26 |
 | 62 | Jump Game VII | medium | JavaScript | DP | [Link](https://leetcode.com/problems/jump-game-vii/) | 26-05-26 |
+| 63 | Count the Number of Special Charac... | easy | JavaScript | Hashing | [Link](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | 26-05-26 |

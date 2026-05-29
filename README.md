@@ -67,3 +67,4 @@
 | 63 | Count the Number of Special Charac... | easy | JavaScript | Hashing | [Link](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | 26-05-26 |
 | 64 | Count the Number of Special Charac... | medium | JavaScript | Hashing | [Link](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | 27-05-26 |
 | 65 | Longest Common Suffix Queries | hard | JavaScript | Trie | [Link](https://leetcode.com/problems/longest-common-suffix-queries/) | 28-05-26 |
+| 66 | Minimum Element After Replacement ... | easy | JavaScript | Array | [Link](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | 29-05-26 |

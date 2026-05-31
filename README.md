@@ -69,3 +69,4 @@
 | 65 | Longest Common Suffix Queries | hard | JavaScript | Trie | [Link](https://leetcode.com/problems/longest-common-suffix-queries/) | 28-05-26 |
 | 66 | Minimum Element After Replacement ... | easy | JavaScript | Array | [Link](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | 29-05-26 |
 | 67 | Block Placement Queries | hard | JavaScript | Segment Tree | [Link](https://leetcode.com/problems/block-placement-queries/) | 30-05-26 |
+| 68 | Destroying Asteroids | medium | JavaScript | Greedy | [Link](https://leetcode.com/problems/destroying-asteroids/) | 31-05-26 |

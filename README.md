@@ -70,3 +70,4 @@
 | 66 | Minimum Element After Replacement ... | easy | JavaScript | Array | [Link](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | 29-05-26 |
 | 67 | Block Placement Queries | hard | JavaScript | Segment Tree | [Link](https://leetcode.com/problems/block-placement-queries/) | 30-05-26 |
 | 68 | Destroying Asteroids | medium | JavaScript | Greedy | [Link](https://leetcode.com/problems/destroying-asteroids/) | 31-05-26 |
+| 69 | Minimum Cost of Buying Candies Wit... | easy | JavaScript | Greedy | [Link](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | 01-06-26 |

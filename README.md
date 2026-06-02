@@ -71,3 +71,4 @@
 | 67 | Block Placement Queries | hard | JavaScript | Segment Tree | [Link](https://leetcode.com/problems/block-placement-queries/) | 30-05-26 |
 | 68 | Destroying Asteroids | medium | JavaScript | Greedy | [Link](https://leetcode.com/problems/destroying-asteroids/) | 31-05-26 |
 | 69 | Minimum Cost of Buying Candies Wit... | easy | JavaScript | Greedy | [Link](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | 01-06-26 |
+| 70 | Earliest Finish Time for Land and ... | easy | JavaScript | Two Pointer | [Link](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | 02-06-26 |
